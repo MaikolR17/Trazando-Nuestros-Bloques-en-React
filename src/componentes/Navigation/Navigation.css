@@ -1,0 +1,7 @@
+.navigation {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin: 0px 20px 0px 0px;
+    display: inline-block;
+}
